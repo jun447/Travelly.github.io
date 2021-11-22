@@ -70,8 +70,7 @@ nav ul{
   font-weight: 400;
 }
 .hero{
-  background-size: cover;
-  background: linear-gradient(rgba(0,0,0,0.5),transparent),url("img/landing-page.jpg") no-repeat center;
+   background: linear-gradient(rgba(0,0,0,0.5),transparent),url("img/landing-page.jpg") no-repeat center;
   min-height:90vh ;
   color: white;
   display: flex;
@@ -79,6 +78,7 @@ nav ul{
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-size: cover;
 }
 /*Benefits Section*/
 #locations{
